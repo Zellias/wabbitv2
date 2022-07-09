@@ -1,0 +1,12 @@
+
+
+{
+  "bot": {
+    "token": "token", 
+    "clientId":"clientId"
+  },
+  "database": {
+    "url": "mongo url"
+  },
+    "dev":["id1"]
+}
